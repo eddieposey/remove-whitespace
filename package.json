@@ -39,9 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joelc0193/remove-whitespace.git"
+    "url": "https://github.com/eddieposey/remove-whitespace"
   },
-  "publisher": "JoelCastro",
+  "publisher": "eddieposey",
   "dependencies": {
     "clipboardy": "^3.0.0"
   }
